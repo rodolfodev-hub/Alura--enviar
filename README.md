@@ -1,1 +1,1 @@
-Site paracurso  Alura finalizado.
+Site para curso  Alura finalizado.
